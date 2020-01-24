@@ -1,0 +1,11 @@
+* [33mcommit e5396c920e532a2a0d52140bb9fd1fd939ebcca5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+[31m|[m Author: Junkai Wang <jow013@ucsd.edu>
+[31m|[m Date:   Thu Jan 23 02:16:49 2020 -0800
+[31m|[m 
+[31m|[m     changes snackbar text to "Hi there"
+[31m|[m 
+* [33mcommit c01e4c54cc99e693bc5343b1111fdb97a8280b00[m
+  Author: Junkai Wang <jow013@ucsd.edu>
+  Date:   Thu Jan 23 02:02:12 2020 -0800
+  
+      initial commit
